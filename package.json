@@ -1,9 +1,21 @@
 {
+  "name": "Team-Profile-Generator-Challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
-  // "scripts": {
-  //   "test": "jest"
   },
-  // added the script but it wont work
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
 }
